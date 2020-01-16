@@ -9,5 +9,5 @@ Making both work together can advance each one to high levels that none will be 
   
 In fact, I believe that **THE WAY** to move both forward is by promoting the mix/blending/fusion of these 2 subjects together!  
   
-I have severals notes about this subject and I will be trying to make a coherent text here...
+I have several notes about this subject and I will be trying to make a coherent text here... for now, there is PDF and respective slides inside the "doc" directory...
   
