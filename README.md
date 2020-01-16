@@ -7,5 +7,6 @@ Making both work together can advance each one to high levels that none will be 
   
 ![](doc/Slide-001.jpg)  
   
-In fact, I believe that **THE WAY** to move both forward is by promoting the mix/blending/fusion of these 2 subjects together!  
+In fact, I believe that **THE WAY** to move both forward is by promoting the mix/blending/fusion of these 2 subjects together!   
+I have severals notes about this subject and I will be trying to make a coherent text here...
   
