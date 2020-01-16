@@ -1,2 +1,6 @@
-# p2p-is-coop
-P2P is the equivalent of COOPs, for bits!
+# P2P-is-COOP
+**P2P software/Network is the equivalent of COOPERATIVES, for bits!  
+  
+  
+![](doc/Slide-001.jpg)  
+
