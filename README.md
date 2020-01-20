@@ -9,5 +9,13 @@ Making both work together can advance each one to high levels that none will be 
   
 In fact, I believe that **THE WAY** to move both forward is by promoting the mix/blending/fusion of these 2 subjects together!  
   
-I have several notes about this subject and I will be trying to make a coherent text here... for now, there is PDF and respective slides inside the "doc" directory...
+I believe that there are things that are possible today and easy to achieve, that will work as tools, to basically, power-up further development in both, P2P and Cooperativism...  
   
+![](doc/p2p-is-coop-001.jpg)  
+  
+![](doc/p2p-is-coop-001.jpg)  
+  
+  
+I am trying to build a coherent text about this subject here... for now, there is a PDF and respective slides inside the "doc" directory...
+  
+2020-JAN-20
