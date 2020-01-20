@@ -13,7 +13,7 @@ I believe that there are things that are possible today and easy to achieve, tha
   
 ![](doc/p2p-is-coop-001.jpg)  
   
-![](doc/p2p-is-coop-001.jpg)  
+![](doc/p2p-is-coop-002.jpg)  
   
   
 I am trying to build a coherent text about this subject here... for now, there is a PDF and respective slides inside the "doc" directory...
